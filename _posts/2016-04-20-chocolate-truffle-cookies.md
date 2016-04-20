@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: For The Chocolate Chips
-datePublished: '2016-04-20T05:23:40.108Z'
-dateModified: '2016-04-20T05:23:00.336Z'
+datePublished: '2016-04-20T05:25:07.660Z'
+dateModified: '2016-04-20T05:23:49.372Z'
 title: Chocolate Truffle Cookies
 author: []
+sourcePath: _posts/2016-04-20-chocolate-truffle-cookies.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-chocolate-truffle-cookies.md
-published: true
 url: chocolate-truffle-cookies/index.html
 _type: Article
 
