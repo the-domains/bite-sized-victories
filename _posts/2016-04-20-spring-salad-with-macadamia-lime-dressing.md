@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T06:01:30.447Z'
-dateModified: '2016-04-20T06:01:14.268Z'
+datePublished: '2016-04-20T06:38:41.465Z'
+dateModified: '2016-04-20T06:01:34.974Z'
 title: Spring Salad with Macadamia Lime Dressing
 author: []
 authors: []
@@ -68,9 +68,14 @@ Peel and cut the kumara, carrots or beets into approximately 1cm sticks. Trim th
 
 Place the hardier vegetables (kumara, carrots, beets, fennel) together in one pan, the more delicate (asparagus, spring onion) in the second pan.
 
-Drizzle the oil over the vegetables and sprinkle the salt. Give them a shake or mix with your hands. Put the first tray in the oven and set a timer for 10 minutes.
+Drizzle the oil over the vegetables and sprinkle the salt. Give them a shake or mix with your hands. 
 
-* When the 10 minutes are up, add the second tray of vegetables to the oven. Cook both for 15 minutes.
-* Remove all vegetables when they look slightly crispy and browned.
-* Dump the vegetables out onto some paper towel to blot up some of the oil.
-* Transfer the cooked vegetables to a bowl or platter and pour over the dressing.
+Put the first tray in the oven and set a timer for 10 minutes.
+
+When the 10 minutes are up, add the second tray of vegetables to the oven. Cook both for 15 minutes.
+
+Remove all vegetables when they look slightly crispy and browned.
+
+Dump the vegetables out onto some paper towel to blot up some of the oil.
+
+Transfer the cooked vegetables to a bowl or platter and pour over the dressing.
