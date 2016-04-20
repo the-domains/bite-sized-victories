@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T06:38:41.465Z'
-dateModified: '2016-04-20T06:01:34.974Z'
+datePublished: '2016-04-20T22:01:34.008Z'
+dateModified: '2016-04-20T06:38:54.234Z'
 title: Spring Salad with Macadamia Lime Dressing
 author: []
 authors: []
@@ -22,9 +22,8 @@ url: spring-salad-with-macadamia-lime-dressing/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25e713da-4af7-421a-84be-243d58792ea2.png)
-
 # Spring Salad with Macadamia Lime Dressing
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25e713da-4af7-421a-84be-243d58792ea2.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd2a2ea2-7cff-441f-95ea-4115a9cea906.png)
 
 ## Ingredients:
