@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: For The Chocolate Chips
-datePublished: '2016-04-20T05:28:05.407Z'
-dateModified: '2016-04-20T05:25:13.689Z'
+datePublished: '2016-04-20T05:28:41.717Z'
+dateModified: '2016-04-20T05:28:08.437Z'
 title: Chocolate Truffle Cookies
 author: []
 sourcePath: _posts/2016-04-20-chocolate-truffle-cookies.md
@@ -22,9 +22,8 @@ url: chocolate-truffle-cookies/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c49c8120-f9ac-4af9-9a9f-dba3aca0133f.jpg)
-
 # Chocolate Truffle Cookies
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c49c8120-f9ac-4af9-9a9f-dba3aca0133f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54c32df4-990f-4d42-a5f8-a51f9fd67aa8.jpg)
 
 ## Ingredients:
