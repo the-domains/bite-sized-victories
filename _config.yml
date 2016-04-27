@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Bite Sized Victories
 opengraph:
   image: null
   type: null
@@ -20,7 +18,7 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.3765957
+  saturation: 0.7212766
   brandStrength: 0.05106383
   lightness: 0.8125
   brandColors:
@@ -31,10 +29,12 @@ color:
     - '#b2b2b2'
   rhythmicContrast: 0.9893617
 typography_spectrum: 0.86058
+layout_spectrum: 0.1680851
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.1680851
-favicon: null
-name: Bite Sized Victories
+analytics:
+  twitter: null
+  google: null
+  facebook: null
